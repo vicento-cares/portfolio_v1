@@ -10,7 +10,7 @@ Using HTML5, CSS3 and JavaScript with Bootstrap 4 for the web interface and beha
 
 ![Portfolio_v1_new_about](https://github.com/user-attachments/assets/fe5ad63a-6f7d-4fcd-828f-de92fe0e0514)
 
-![3-1](https://github.com/vicento-cares/portfolio_v1/assets/158264850/b31cfb03-bb02-4f63-9d5d-10ec06a819cd)
+![Portfolio_v1_new_resume](https://github.com/user-attachments/assets/87ea8eaf-8455-420c-acc6-95dfe4e129ea)
 
 ![4](https://github.com/vicento-cares/portfolio_v1/assets/158264850/fc745e7f-0c3e-4771-be92-a7980e5d0a20)
 
